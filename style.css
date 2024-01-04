@@ -34,5 +34,12 @@
 }
 
 .flag-stand{
-    6
+    height: 50px;
+    width: 80px;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    
 }

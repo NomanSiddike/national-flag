@@ -8,6 +8,9 @@
     width: 400px;
     background-color: green;
     position: relative;
+    top: 200px;
+    left: 150px;
+    
 }
 
 .flag-circle{
@@ -19,5 +22,17 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 100px;
+}
 
+.flag-handle{
+    height: 200px;
+    width: 20px;
+    background-color: black;
+    position: relative;
+    top: 80%;
+    border-top-right-radius: 50px;
+}
+
+.flag-stand{
+    6
 }
